@@ -1,6 +1,7 @@
 # Xbox2usbC
 An adapter that allows you to plug in USB C wires/devices into the Original Xbox Controller port
 
+Once development is done, this will be available for purchase
 
 hield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
