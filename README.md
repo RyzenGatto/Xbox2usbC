@@ -3,6 +3,12 @@ An adapter that allows you to plug in USB C wires/devices into the Original Xbox
 
 Once development is done, this will be available for purchase
 
+# Revision One
+This is the, as if yet, untested first variant of the Xbox2usbC. 
+
+Here is a render:
+![Render of version 1.0](https://github.com/RyzenGatto/Xbox2usbC/blob/d8a7ebdf93c8e7e2cece45f8f4296b526eb38515/xbox%20Pictures/Revision%201.0/Revision%201.0%20Render.PNG)
+
 hield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 This work is licensed under a
