@@ -29,6 +29,20 @@ And here is a 3D render of the top and bottom:
 
 ![Bottom](https://github.com/RyzenGatto/Xbox2usbC/blob/main/xbox%20Pictures/Revision%201.1/rear%203d%20render.PNG)
 
+# Revision 2.0
+
+I finally got my hands the 1.1 PCB and found it barely did not fit in the port. I also made the lower part larger to prevent damage of the controller port on the xbox and the USB C port on the Xbox2usbC.
+
+Here's a render of the top of 2.0:
+
+![Top](https://github.com/RyzenGatto/Xbox2usbC/blob/482e283a2905482e7d1bf3cd8803f7c1213d69ae/xbox%20Pictures/Revision%202.0/Top.PNG)
+
+And here's a render of the bottom:
+
+![Bottom](https://github.com/RyzenGatto/Xbox2usbC/blob/482e283a2905482e7d1bf3cd8803f7c1213d69ae/xbox%20Pictures/Revision%202.0/Bottom.PNG)
+
+I've placed an order for this version of the PCB to continue testing. Should be here in a couple weeks.
+
 hield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 This work is licensed under a
