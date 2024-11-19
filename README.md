@@ -4,7 +4,7 @@ An adapter that allows you to plug in USB C wires/devices into the Original Xbox
 Once development is done, this will be available for purchase
 
 # Revision One
-This is the, as if yet, untested first variant of the Xbox2usbC. 
+This is the untested first variant of the Xbox2usbC. 
 
 Here is a render:
 
@@ -23,7 +23,7 @@ Here is a render:
 
 ![Render of version 1.1](https://github.com/RyzenGatto/Xbox2usbC/blob/a4202bf952c8a1183e9e5b38aab00fa569bdce24/xbox%20Pictures/Revision%201.1/Capture.PNG)
 
-And here is a 3D render of the top and bottom:
+Here is a 3D render of the top and bottom:
 
 ![Top](https://github.com/RyzenGatto/Xbox2usbC/blob/a4202bf952c8a1183e9e5b38aab00fa569bdce24/xbox%20Pictures/Revision%201.1/3d%20render.PNG)
 
@@ -31,7 +31,7 @@ And here is a 3D render of the top and bottom:
 
 # Revision 2.0
 
-I finally got my hands the 1.1 PCB and found it barely did not fit in the port. I also made the lower part larger to prevent damage of the controller port on the xbox and the USB C port on the Xbox2usbC.
+I finally got the 1.1 PCB and found it barely did not fit in the port. I also made the lower part larger to prevent damage of the controller port on the xbox and the USB C port on the Xbox2usbC.
 
 Here's a render of the top of 2.0:
 
